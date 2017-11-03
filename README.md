@@ -1,4 +1,4 @@
-# NodeJS-Starter-Kit
+# HTML-Starter-Kit
 _Made by Luciano Nooijen_
 Version 1.0.0 (still in development)
 
