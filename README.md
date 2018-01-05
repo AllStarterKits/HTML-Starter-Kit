@@ -2,10 +2,10 @@
 _Made by Luciano Nooijen_
 Version 1.0.0 (still in development)
 
-[![Build Status](https://travis-ci.org/lucianonooijen/HTML-Starter-Kit.svg?branch=master)](https://travis-ci.org/lucianonooijen/HTML-Starter-Kit) 
-[![Dependency Status](https://david-dm.org/lucianonooijen/HTML-Starter-Kit.svg)](https://david-dm.org/lucianonooijen/HTML-Starter-Kit)
+[![Build Status](https://travis-ci.org/AllStarterKits/HTML-Starter-Kit.svg?branch=master)](https://travis-ci.org/AllStarterKits/HTML-Starter-Kit) 
+[![Dependency Status](https://david-dm.org/lucianonooijen/AllStarterKits.svg)](https://david-dm.org/AllStarterKits/HTML-Starter-Kit)
 [![devDependency Status](
-https://david-dm.org/lucianonooijen/HTML-Starter-Kit/dev-status.svg)](https://david-dm.org/lucianonooijen/HTML-Starter-Kit#info=devDependencies)
+https://david-dm.org/AllStarterKits/HTML-Starter-Kit/dev-status.svg)](https://david-dm.org/AllStarterKits/HTML-Starter-Kit#info=devDependencies)
 
 ## Why this starter kit?
 For many custom html/css/js websites I make I have to do the same thing over and over again. To make it a bit easier for myself I made this starter kit with the tools I love to use. For this reason I integrated handlebars for templating (partials, yaay) and made it so that everything can be put in the src folder (and views for templating). Feel free to use this starter kit or edit it to your own preferences.
