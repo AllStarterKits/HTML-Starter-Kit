@@ -1,11 +1,9 @@
-//@import "reset"; //to reset Bootstrap styling uncomment, comment to use Bootstrap styling
-@import "variables";
-@import "mixins";
-@import "typography";
-@import "buttons";
-@import "layout";
-@import "modules";
-@import "animations";
+@import 'base/base';
+@import 'layout/layout';
+@import 'components/components';
+@import 'pages/pages';
+@import 'vendor/vendor';
+@import 'shame';
 
 body {
   background-color: #ddd;
