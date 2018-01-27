@@ -4,9 +4,9 @@
  * @since v0.0.0
  */
 
-$(document).ready(function(){
-  let workingJS = () => {
-    console.log('Custom Javascript loaded');
-  }
-  workingJS();
+$(document).ready(function () {
+    const workingJS = () => {
+        console.log('Custom Javascript loaded');
+    };
+    workingJS();
 });
